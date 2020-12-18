@@ -32,12 +32,15 @@ Simple User login and registration app using React Native and Mango DB.
 #### Installation
 
 Clone the project into local device. 
-install React Native package , npm, nodejs, bodyparser, express. 
-open project in VS code. 
-Run "npx react native run-android"
-open cmd in the path of project server,
+Install React Native package , npm, nodejs, bodyparser, express. 
+Open project in VS code. 
+Run "npx react native run-android".
+Open cmd in the path of project server,
 Run "nodemon app".
-As soon as nodemon runs the application will connect with the MongoDb.  
+As soon as nodemon runs the application will connect with the MongoDb. 
+
+Since I have focused more on Backend, I could complete few UI tasks. 
+I was determined to build my own complete application from scratch. 
 
 #### API Reference
 The API was completely build my myself, I have not used any other external website to use mock API. 
