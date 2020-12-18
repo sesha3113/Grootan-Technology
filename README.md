@@ -46,9 +46,12 @@ I was determined to build my own complete application from scratch.
 
 #### API Reference
 Body parser is used as a middleware. 
+
 Express is used for minimal and flexible Node.js framwork.
+
 The API was completely build my myself, I have not used any other external website to use mock API. 
 API is linked with MongoDB.
+
 Schema is written inside the server.
 ```html
     
