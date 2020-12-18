@@ -34,12 +34,20 @@ Simple User login and registration app using React Native and Mango DB.
 
 #### Installation
 
-
+Clone the project into local device. 
+install React Native package , npm, nodejs, bodyparser, express. 
+open project in VS code. 
+Run "npx react native run-android"
+open cmd in the path of project server,
+Run "nodemon app".
+As soon as nodemon runs the application will connect with the MongoDb.  
 
 #### API Reference
-
+The API was completely build my myself, I have not used any other external website to use mock API. 
+API is linked with MongoDB.
+Schema is written inside the server.
 ```html
-    <p>dummy code</p>
+    
 ```
 [Back To The Top](#read-me-template)
 
@@ -54,33 +62,7 @@ www.google.com
 
 ---
 
-## License
 
-MIT License
-
-Copyright (c) [2020] [SeshaPrasan]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
 
 ## Author Info
 
