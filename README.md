@@ -1,7 +1,5 @@
 # Grootan Technologies
 
-![Project Image](project-image-url)
-
 > This is a simple user information viewing application.
 
 ---
@@ -12,7 +10,6 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
