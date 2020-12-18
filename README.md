@@ -39,7 +39,7 @@ Open cmd in the path of project server,
 Run "nodemon app".
 As soon as nodemon runs the application will connect with the MongoDb. 
 
-Since I have focused more on Backend, I could complete few UI tasks. 
+Since I have focused more on Backend, I couldn't complete few UI tasks. 
 I was determined to build my own complete application from scratch. 
 
 #### API Reference
